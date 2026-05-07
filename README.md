@@ -8,7 +8,7 @@ The summary of the findings can be found [here](#Summary-of-the-findings).
 
 A detailed sales trend analysis can be found [here](#Sales-Trends).
 
-<p style="color:red;">Recommendations based on the analysis can be found</p> [here](#Recommendations).
+<p style="color:red;">Recommendations based on the analysis can be found</p>[here](#Recommendations).
 
 ## The Dataset
 
